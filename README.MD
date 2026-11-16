@@ -15,7 +15,7 @@ It covers fundamental computer graphics concepts, including graphics primitives,
 
 ## Repository Structure
 
-    IC-2K24-34-ComputerGraphics-Lab-DhruvPardeshi/
+    IC-2K24-04-ComputerGraphics-Lab-Aayushsingh/
     │
     ├── CGM_Lab1/
     │   ├── CGM_LabAssignment1_BasicShapes.cpp
